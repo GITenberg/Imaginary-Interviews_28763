@@ -1,0 +1,38 @@
+_repo: Imaginary-Interviews_28763
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, W. D. (William Dean)
+    - Howells, William D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: This 1910 collection of satiric essays on editors, the publishing industry,
+  music, and culture includes Sclerosis of the Tastes," Intimations of Italian Opera,"
+  The Superiority of Our Inferiors," Unimportance of Women in Republics," Cheapness
+  of the Costliest City on Earth," The Magazine Muse," Qualities Without Defects,"
+  and A Normal Hero and Heroine Out of Work."
+gutenberg_issued: '2009-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28763'
+  lccn: '10023136'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Essays'
+- !lcsh 'Imaginary conversations'
+- !lcsh 'Fiction'
+tableOfContents: Imaginary interviews -- Other essays.
+title: Imaginary Interviews
+url: http://www.gutenberg.org/ebooks/28763
